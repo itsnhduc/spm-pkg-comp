@@ -1,0 +1,19 @@
+{
+  "name": "spm-pkg-comp",
+  "version": "1.0.0",
+  "description": "Et harum quidem rerum facilis est et expedita distinctio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsnhduc/spm-pkg-comp.git"
+  },
+  "author": "itsnhduc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsnhduc/spm-pkg-comp/issues"
+  },
+  "homepage": "https://github.com/itsnhduc/spm-pkg-comp#readme"
+}
