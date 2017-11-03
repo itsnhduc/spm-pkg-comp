@@ -1,5 +1,5 @@
 export default ReuseMe = () => {
   return (
-    <div>Changing stuff</div>
+    <div>Welcome</div>
   )
 }
